@@ -74,8 +74,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
 // todo Quick starter/list of fruits
-
-
 // import 'package:flutter/material.dart';
 
 // void main() {
