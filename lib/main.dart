@@ -1,4 +1,5 @@
 
+//todo leture 1
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
@@ -41,12 +42,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    // This method is rerun every time setState is called, for instance as done
-    // by the _incrementCounter method above.
-    //
-    // The Flutter framework has been optimized to make rerunning build methods
-    // fast, so that you can just rebuild anything that needs updating rather
-    // than having to individually change instances of widgets.
+    
     return const Scaffold(
       backgroundColor: Colors.black,
 
@@ -74,3 +70,74 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+
+
+// todo Quick starter/list of fruits
+
+
+// import 'package:flutter/material.dart';
+
+// void main() {
+//   runApp(const MyApp());
+// }
+
+// class MyApp extends StatelessWidget {
+//   const MyApp({super.key});
+
+//   // This widget is the root of your application.
+//   @override
+//   Widget build(BuildContext context) {
+//     return const MaterialApp(
+//       debugShowCheckedModeBanner: false,
+
+//       home: MyHomePage(title: '  '),
+//     );
+//   }
+// }
+
+// class MyHomePage extends StatefulWidget {
+//   const MyHomePage({super.key, required this.title});
+
+//   final String title;
+
+//   @override
+//   State<MyHomePage> createState() => _MyHomePageState();
+// }
+
+// class _MyHomePageState extends State<MyHomePage> {
+
+//   @override
+//   Widget build(BuildContext context) {
+
+//     return Scaffold(
+//       appBar: AppBar(
+//         title:
+//         const Text('           🛍️List of Fruits',style: TextStyle(color:Colors.white,letterSpacing : 2,fontWeight: FontWeight.bold,),),
+//         backgroundColor: Colors.teal,
+//       ),
+//       body:const Center(
+
+//         child : Text.rich(TextSpan(
+//             children:[
+//               TextSpan(text:' 🍎 Apple\n ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.red,letterSpacing: 3)),
+//               TextSpan(text:'🍇 Greps\n ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.purpleAccent,letterSpacing: 3)),
+//               TextSpan(text: '🍒 Cherry\n ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.purple,letterSpacing: 3)),
+//               TextSpan(text: '🍓 Strawberry\n ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.pink,letterSpacing: 3)),
+//               TextSpan(text: '🥭 Mango\n ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.yellow,letterSpacing: 3)),
+//               TextSpan(text: '🍍 Pineapple\n ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.green,letterSpacing: 3)),
+//               TextSpan(text: '🍋 Lemon\n ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.yellow,letterSpacing: 3)),
+//               TextSpan(text: '🍉 Watermelon\n ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.lightGreenAccent,letterSpacing: 3)),
+//               TextSpan(text: '🥥 Coconut\n ',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 40,color:Colors.brown,letterSpacing: 3),),
+
+//             ]
+
+//         ),),
+
+//       ),
+//       // floatingActionButton: FloatingActionButton(
+//       //
+//       //   child: const Icon(Icons.add),
+//       // This trailing comma makes auto-formatting nicer for build methods.
+//     );
+//   }
+// }
