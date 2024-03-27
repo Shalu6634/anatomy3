@@ -142,7 +142,7 @@ class _MyHomePageState extends State<MyHomePage> {
 // }
 
 
-//todo Quick starter/red & white
+todo Quick starter/red & white
 
 
 // import 'package:flutter/material.dart';
@@ -247,3 +247,6 @@ class _MyHomePageState extends State<MyHomePage> {
 //   }
 // }
 
+
+
+//todo 
