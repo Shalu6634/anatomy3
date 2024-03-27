@@ -16,7 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![list_fruits-removebg-preview](https://github.com/Shalu6634/anatomy3/assets/149373622/6b0ffeed-386c-4281-9b38-6fefda20f351)
- 
 
-
+![Screenshot_2024-03-27_133249-removebg-preview](https://github.com/Shalu6634/anatomy3/assets/149373622/6c503aca-8ffb-4fdf-8392-a50294c7aecf)
