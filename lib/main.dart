@@ -73,6 +73,12 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
 
+
+
+
+
+
+
 // todo Quick starter/list of fruits
 // import 'package:flutter/material.dart';
 
@@ -140,6 +146,12 @@ class _MyHomePageState extends State<MyHomePage> {
 //     );
 //   }
 // }
+
+
+
+
+
+
 
 
 todo Quick starter/red & white
@@ -249,6 +261,13 @@ todo Quick starter/red & white
 
 
 
+
+
+
+
+
+  
+
 //todo richtext
 
   
@@ -337,6 +356,15 @@ todo Quick starter/red & white
 //   }
 // }
 
+
+
+
+
+
+
+
+
+  
 //todo richtext2
 
 // import 'package:flutter/material.dart';
