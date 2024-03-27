@@ -27,4 +27,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![red-removebg-preview](https://github.com/Shalu6634/red_and_white1/assets/149373622/704bccfd-f82e-47ef-baca-141e3c12c023)
+
+
+
 ![list_fruits-removebg-preview](https://github.com/Shalu6634/anatomy3/assets/149373622/c18c96b1-a9bf-48e8-8e4b-e5a51ebb5810)
